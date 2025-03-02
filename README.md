@@ -6,25 +6,18 @@
 </p>
 
 <p align="center">
-<b>Assign different roles to GPTs to form a collaborative entity for complex tasks.</b>
+<b>Assign different roles to LLMs to form a collaborative entity for complex tasks.</b>
 </p>
 
-<p align="center">
-<a href="docs/README_CN.md"><img src="https://img.shields.io/badge/文档-中文版-blue.svg" alt="CN doc"></a>
-<a href="README.md"><img src="https://img.shields.io/badge/document-English-blue.svg" alt="EN doc"></a>
-<a href="docs/README_FR.md"><img src="https://img.shields.io/badge/document-French-blue.svg" alt="FR doc"></a>
-<a href="docs/README_JA.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-blue.svg" alt="JA doc"></a>
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-<a href="docs/ROADMAP.md"><img src="https://img.shields.io/badge/ROADMAP-路线图-blue" alt="roadmap"></a>
-<a href="https://discord.gg/DYn29wFk9z"><img src="https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat" alt="Discord Follow"></a>
-<a href="https://twitter.com/MetaGPT_"><img src="https://img.shields.io/twitter/follow/MetaGPT?style=social" alt="Twitter Follow"></a>
-</p>
+## Papers
 
-<p align="center">
-   <a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/geekan/MetaGPT"><img src="https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode" alt="Open in Dev Containers"></a>
-   <a href="https://codespaces.new/geekan/MetaGPT"><img src="https://img.shields.io/badge/Github_Codespace-Open-blue?logo=github" alt="Open in GitHub Codespaces"></a>
-   <a href="https://huggingface.co/spaces/deepwisdom/MetaGPT-SoftwareCompany" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-blue?color=blue&logoColor=white" /></a>
-</p>
+- **2024-02-18** | Atom of Thoughts for Markov LLM Test-Time Scaling | [arXiv:2502.12018](https://arxiv.org/abs/2502.12018)  
+- **2024-02-06** | Self-Supervised Prompt Optimization | [arXiv:2502.06855](https://arxiv.org/abs/2502.06855)  
+- **2024-10-10** | AFlow: Automating Agentic Workflow Generation | [arXiv:2410.10762](https://arxiv.org/abs/2410.10762)  
+- **2024-10-21** | FACT: Examining the Effectiveness of Iterative Context Rewriting for Multi-fact Retrieval | [arXiv:2410.21012](https://arxiv.org/abs/2410.21012)  
+- **2024-10-17** | SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning | [arXiv:2410.17238](https://arxiv.org/abs/2410.17238)  
+- **2024-02-18** | Data Interpreter: An LLM Agent For Data Science | [arXiv:2402.18679](https://arxiv.org/abs/2402.18679)  
+- **2023-08-01** | MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework | [arXiv:2308.00352](https://arxiv.org/abs/2308.00352)  
 
 ## News
 🚀 Feb. 19, 2025: Today we are officially launching our natural language programming product: MGX (MetaGPT X) - the world's first AI agent development team.  [Offical website](https://mgx.dev/) [Twitter](https://x.com/MetaGPT_/status/1892199535130329356)
