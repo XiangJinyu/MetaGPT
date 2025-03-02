@@ -11,6 +11,8 @@
 
 ## Papers
 
+**We have open-sourced the full code for all these papers.**
+
 - **2024-02-18** | Atom of Thoughts for Markov LLM Test-Time Scaling | [arXiv:2502.12018](https://arxiv.org/abs/2502.12018)  
 - **2024-02-06** | Self-Supervised Prompt Optimization | [arXiv:2502.06855](https://arxiv.org/abs/2502.06855)  
 - **2024-10-10** | AFlow: Automating Agentic Workflow Generation | [arXiv:2410.10762](https://arxiv.org/abs/2410.10762)  
