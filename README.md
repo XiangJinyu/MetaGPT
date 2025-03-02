@@ -26,6 +26,16 @@
    <a href="https://huggingface.co/spaces/deepwisdom/MetaGPT-SoftwareCompany" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-blue?color=blue&logoColor=white" /></a>
 </p>
 
+## Papers
+
+- **2024-02-18** | Atom of Thoughts for Markov LLM Test-Time Scaling | [arXiv:2502.12018](https://arxiv.org/abs/2502.12018)  
+- **2024-02-06** | Self-Supervised Prompt Optimization | [arXiv:2502.06855](https://arxiv.org/abs/2502.06855)  
+- **2024-10-10** | AFlow: Automating Agentic Workflow Generation | [arXiv:2410.10762](https://arxiv.org/abs/2410.10762)  
+- **2024-10-21** | FACT: Examining the Effectiveness of Iterative Context Rewriting for Multi-fact Retrieval | [arXiv:2410.21012](https://arxiv.org/abs/2410.21012)  
+- **2024-10-17** | SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning | [arXiv:2410.17238](https://arxiv.org/abs/2410.17238)  
+- **2024-02-18** | Data Interpreter: An LLM Agent For Data Science | [arXiv:2402.18679](https://arxiv.org/abs/2402.18679)  
+- **2023-08-01** | MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework | [arXiv:2308.00352](https://arxiv.org/abs/2308.00352)  
+
 ## News
 🚀 Feb. 19, 2025: Today we are officially launching our natural language programming product: MGX (MetaGPT X) - the world's first AI agent development team.  [Offical website](https://mgx.dev/) [Twitter](https://x.com/MetaGPT_/status/1892199535130329356)
 
